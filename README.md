@@ -12,7 +12,7 @@
 
 | 資產名稱 | 用途 | 解析度 | 原始連結 (範例) |
 | :--- | :--- | :--- | :--- |
-| `book_4.png` | Add-on 主要 Logo | 128x128 | [點此獲取](https://raw.githubusercontent.com/yawlin/gas-assets/main/book_4.png) |
+| `book_4.png` | Add-on 主要 Logo | 128x128 | [點此獲取](https://raw.githubusercontent.com/yawlin/gas-assets/main/book_4_128-yll.png) |
 
 ## 🛠 配置說明 (Configuration)
 
